@@ -3,12 +3,17 @@
 ![programming-fundamentals-softuni](programming-fundamentals-softuni.png)
 
 ## Intro
-Programming Fundamentals introduced me to the vast world of the IT industry. In this module I learned about HTTP, HTML, CSS, Git and GitHub, as well as what QA is. In the end of the course, we had the opportunity with the help of the lecturer to develop our first web project. During the course we learned more deeply about Data Structures such as Arrays, Lists and Associative Arrays. I learned to use methods, regular expressions and also for the first time I got acquainted with Object Oriented Programming.
+Programming Fundamentals introduced me to the vast world of the IT industry. In this module I learned about HTTP, HTML, 
+CSS, Git and GitHub, as well as what QA is. In the end of the course, we had the opportunity with the help of the 
+lecturer to develop our first web project. During the course we learned more deeply about Data Structures such as 
+Arrays, Lists and Associative Arrays. I learned to use methods, regular expressions and also for the first time I got 
+acquainted with Object Oriented Programming.
 
 To learn more about the course you can check [Softuni](https://softuni.bg/)
 
 
 ## Course topics
+[Programming Fundamentals with Java - януари 2021](https://softuni.bg/trainings/3212/java-fundamentals-january-2021)
 ### Basic Syntax, Conditional Statements and Loops
 - [Lab](https://github.com/DenisBuserski/Softuni_Programming_Fundamentals_Java/tree/main/Basic_Syntax_Conditional_Statements_And_Loops_Lab)
 - [Exercise](https://github.com/DenisBuserski/Softuni_Programming_Fundamentals_Java/tree/main/Basic_Syntax_Conditional_Statements_And_Loops_Exercise)
